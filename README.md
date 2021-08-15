@@ -2,7 +2,7 @@
 
 #### _Thank you for visiting my profile. Enjoy your surfing!_
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+![Visitors](https://komarev.com/ghpvc/?username=iamsayem&label=Visitors&style=plastic
 
 ### Connet with me:
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sayembari/)
