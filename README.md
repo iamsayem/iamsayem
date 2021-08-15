@@ -2,8 +2,7 @@
 
 #### _Thank you for visiting my profile. Enjoy your surfing!_
 
-![Visitors](https://komarev.com/ghpvc/?username=iamsayem&label=Visitors&style=plastic
-
+![Visitors](https://komarev.com/ghpvc/?username=iamsayem&label=Visitors&style=plastic)
 ### Connet with me:
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sayembari/)
 [![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/4380965/sayem-bari?tab=profile)
