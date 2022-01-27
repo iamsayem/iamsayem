@@ -7,7 +7,7 @@
 
 #### 🙋🏻‍♂️ Talking about myself:
 
-- :house_with_garden: I am a Full Stack and DevOps Engineer with **4+** years of industrial experience. I am based in **Dhaka**, **Bangladesh**.
+- :house_with_garden: I am a Full Stack & DevOps Engineer with **4+** years of industrial experience. I am based in **Dhaka**, **Bangladesh**.
 - 🔭 I’m currently working on a mircoservice based system using **VueJS** for the frontend and **Django** for the backend.
 - 🌱 Besides, I learn new hacky things of **VueJS** and **React** for frontend system and **Django** for backend system. Also, as of my research interest, I always keep myself digging into computational model design for **Disease Diagnosis** and **Drug Discovery** based on **Deep & Reinforcement Learning** and **Computer Vision**.
 - 👯 I look forward to collaborate on any kind of open source project. Either it could be full-stack engineering system or machine learning system.
